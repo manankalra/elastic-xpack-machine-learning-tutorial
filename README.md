@@ -9,7 +9,6 @@ A simple tutorial to get started with unsupervised machine learning for the elas
 * *<b>logstash-configurations</b>* - contains logstash configuration files for loading and stashing the sample data into elasticsearch
 
 * *<b>scripts</b>* - contains shell scripts to configure multi metric jobs for detecting anomalies and their influencers in system logs (CPU, memory and disk usage) and access (apache) logs
-<br />
 
 ## License
 
